@@ -1,3 +1,4 @@
+//To find wheather the given character is vowel or consonant
 import java.util.Scanner;
 class vowel_consonant
 {
